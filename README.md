@@ -48,7 +48,7 @@ February 14th |  FINISHED! Submitted final project | FINISHED! Submitted final p
 3. Humidity
 4. Rainfall 
 5. Air quality 
-6.Wifi
+6. Wifi
 7. Website that uploads and stores data over time via wifi 
 8. Connects to larger global network 
 
