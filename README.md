@@ -2,7 +2,7 @@
 Created By Lily Wielar and Piper Guiffre
 
 ## GOAL:
-Our goal is to create a weather station for Charlottesville High School that will be able to measure the conditions of the area at the school to compare to National weather forecasts for the Charlottesville area. Our finished project will waterproofed and will be powered by the school wind turbine. We will collect data for temperature, humidity, precipitation, wind speed, and air pressure. All data will be uploaded as raw data and condensed data in the form of graphs and tables to the internet. We want to finish our project in a timely manner and ensure that it is competitive with other weather stations on sites such as Amazon. 
+Our goal is to create a weather station for Charlottesville High School that will be able to measure the conditions of the area at the school to compare to National weather forecasts for the Charlottesville area. Our finished project will waterproofed and will be powered by the school wind turbine. We will collect data for temperature, humidity, precipitation, wind speed, air pressure, and rain fall. All data will be uploaded as raw data and condensed data in the form of graphs and tables to the internet. We want to finish our project in a timely manner and ensure that it is competitive with other weather stations on sites such as Amazon. 
 ## TIMELINE:
 #### November 15th: Completed expert Circuit Python assignments on canvas
 #### November 20th: Have all materials finalized and ordered
