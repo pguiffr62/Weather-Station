@@ -1,10 +1,12 @@
 # DIY Weather Station:
 Created By Lily Wielar and Piper Guiffre
 
-## GOAL:
+## Project Planning:
+
+### GOAL:
 Our goal is to create a weather station for Charlottesville High School that will be able to measure the conditions of the area at the school to compare to National weather forecasts for the Charlottesville area. Our finished project will waterproofed and will be powered by the school wind turbine. We will collect data for temperature, humidity, precipitation, wind speed, air pressure, and rain fall. All data will be uploaded as raw data and condensed data in the form of graphs and tables to the internet. We want to finish our project in a timely manner and ensure that it is competitive with other weather stations on sites such as Amazon. 
 
-## TIMELINE:
+### TIMELINE:
  Date          | Piper         | Lily       | Catchup/Reaction Space  |
  ------------- |:-------------:| ----------:| -----------------------:|
 November 26th  | Completed expert Circuit Python assignments on canvas | Completed expert Circuit Python assignments on canvas |
@@ -24,9 +26,7 @@ February 1st-7th |Troubleshooting any problems |  Troubleshooting any problems |
 February 7th-14th | Final touches, Global network? work on write up |  Final touches, Global network? work on write up |
 February 14th |  FINISHED! Submitted final project | FINISHED! Submitted final project|
 
-## PLANNING:
-
-## MATERIALS: 
+### MATERIALS: 
 1. Espressif esp32-wroom-32
 2. Waterproof housing
 3. Adafruits Waterproof DS18B20 Digital temperature 
@@ -34,15 +34,18 @@ February 14th |  FINISHED! Submitted final project | FINISHED! Submitted final p
 5. Rain gauge [I'm an inline-style link](https://www.weathershack.com/product/rainwise-rainew211.html)
 6. All-in-one [I'm an inline-style link](https://www.adafruit.com/product/3660) 
 
-## To-Do 
+### Criteria
 1. Make instruction manual to maintain product
 2. Look up maintenance of products
 3. Connect the data from station to larger hub that connects with other stations
 4. Have station upload and store data 
 5. Find location for weather station
 
+### Constraints
 
-## Project Features
+
+
+### Project Features
 1. Temperature
 2. Ground temperature
 3. Humidity
@@ -52,48 +55,10 @@ February 14th |  FINISHED! Submitted final project | FINISHED! Submitted final p
 7. Website that uploads and stores data over time via wifi 
 8. Connects to larger global network 
 
-## PROJECT UPDATES:
+### PROJECT Log:
 
-Week:
-Update:
-Goal:
+## Final Product:
 
+### REFLECTION:
 
-Week 1
-
-Update:
-Goal:
-
-
-Week 2
-
-Update:
-Goal:
-
-
-Week 3
-
-
-Update:
-Goal:
-
-Week 4
-
-Update:
-Goal:
-
-
-Week 5
-
-Update:
-Goal:
-
-
-
-## CODE:
-
-## REFLECTION:
-
-## PICTURES AND VIDEOS:
-
-## CONSTRAINTS/FUTURE PROBLEMS:
+### PICTURES AND VIDEOS:
