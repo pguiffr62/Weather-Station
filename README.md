@@ -52,10 +52,9 @@ The tradition 3 constraints are time, budget, and safety
  ------------- |:-------------:| ----------:| -----------------------:|
 November 26th  | Completed expert Circuit Python assignments on canvas | Completed expert Circuit Python assignments on canvas |
 December 2nd  | Have paliminatry design for box and set up| Start code |
-December 6th  | Have design for the box and way to connect it to website | Start ada fruit all in one code |
-December 9th  | Look over and revise timeline/plan, play catchup, meeting with Ms Scott? |  Look over and revise timeline/plan, play catchup, meeting with Ms Scott? |
-December 10th |Start solid works for design| Start finishing all in one code|
-December 12th |Work on computer connection and water proofing| Start ground temp code|
+December 6th  | Have design for the box and way to connect it to website | Start ada fruit all in one code |Circuit Python to processing assignment was more difficult than expected running behind schedule, and still working on canvas asignments. 
+December 9th  |Continue to work on canvas projects. Start preliminary solidworks.|Continue to work on canvas projects.Start research on coding.
+December 13th |Have finished preliminary and finished canvas code.|Begin working on adafruit all in one code, and have finished canvas code.|
 December 16th |Finish solid works| finish all in one code and ground temp code| 
 December 20th |Mid terms |Mid terms | If really behind come in during that week| 
 January 6th  |Begin wiring and working on wireless conection and data| Start rain fall code|
