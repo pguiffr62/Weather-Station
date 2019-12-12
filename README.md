@@ -74,3 +74,7 @@ February 14th |  FINISHED! Submitted final project | FINISHED! Submitted final p
 ### Reflection:
 
 ### Pictures and Videos:
+
+### Circut Python to Processing 
+
+Description : For this assignment we used a UART (Universal Asynchronous Receiver/Transmitter) to transmit data from our Metroboard to our computer. We sent potentiometer values through the UART and also used our serial port to upload our code and monitor our project on the serial monitor. We then displayed our potentiometer through processing by rotating a line dependnet of the potentiometer rotation. We made it look like analog gauge/speedometer. 
