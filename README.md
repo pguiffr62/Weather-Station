@@ -69,11 +69,12 @@ February 14th |  FINISHED! Submitted final project | FINISHED! Submitted final p
 
 ### PROJECT Log:
 
-## Final Product:
+## Final Product: Due to covid and senioritis we didn't finish the weather station but we have all of the suplies and we would love someone to carry on our legacy. 
 
-### Reflection:
+### Reflection:  
 
 ### Pictures and Videos:
+![unnamed](https://user-images.githubusercontent.com/55250502/119363418-c8280f80-bc7b-11eb-8de9-e80f90ca398f.jpg)
 
 ### Circut Python to Processing 
 
